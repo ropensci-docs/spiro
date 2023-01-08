@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "3c06df9da814ae3096a9f8eadbefcc9823493cf7",
+    "author": "Simon Nolte <81624911+smnnlt@users.noreply.github.com>",
+    "time": "2022-12-09 22:51:40",
+    "files": 37,
+    "merge": true,
+    "message": "Merge pull request #7 from ropensci/dev\n\nspiro_plot() update"
+  },
+  "repo": "https://github.com/ropensci/spiro",
+  "pkg": "spiro"
+}
