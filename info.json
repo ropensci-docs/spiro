@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "a1f9b3a31517658ab671fec44497258d625922da",
+    "author": "Simon Nolte <81624911+smnnlt@users.noreply.github.com>",
+    "time": "2026-06-30T09:51:04Z",
+    "files": 5,
+    "merge": false,
+    "message": "Increment version number\n"
+  },
+  "repo": "https://github.com/ropensci/spiro",
+  "pkg": "spiro",
+  "time": "2026-08-30T07:43:51Z"
+}
